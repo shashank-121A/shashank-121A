@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Shashank U Shet]!
+# 👋 Hi there, I'm Shashank U Shet!
 
 Welcome to my GitHub profile! I'm a passionate Developer who loves to build, learn, and share new things.
 
@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate Developer who loves to build, lea
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[GDScript,C#,React,C++]**
-- 💼 I’m working on **[my projects on College]**
-- 👯 I’m looking to collaborate on **[ Interesting Projects and something creative]**
-- 💬 Ask me about **[🎮Game Development!!]**
-- 📫 How to reach me: **[📧shashankshet271@gmail.com]**
-- ⚡ Fun fact: **[defetaing a Boss in 30th try]**
+- 🌱 I’m currently learning **GDScript,C#,React,C++**
+- 💼 I’m working on **my projects on College**
+- 👯 I’m looking to collaborate on ** Interesting Projects and something creative**
+- 💬 Ask me about **🎮Game Development!!**
+- 📫 How to reach me: **📧shashankshet271@gmail.com**
+- ⚡ Fun fact: **defetaing a Boss in 30th try**
 
 ---
 
