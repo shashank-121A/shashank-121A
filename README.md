@@ -10,15 +10,15 @@ Welcome to my GitHub profile! I'm a passionate Developer who loves to build, lea
 - 💼 I’m working on **[my projects on College]**
 - 👯 I’m looking to collaborate on **[ Interesting Projects, something creative]**
 - 💬 Ask me about **[Game Development!!]**
-- 📫 How to reach me: **[Your Email or Socials]**
-- ⚡ Fun fact: **[Something interesting about you!]**
+- 📫 How to reach me: **[shashankshet271@gmail.com]**
+- ⚡ Fun fact: **[defetaing a Boss in 30th try]**
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Languages](https://skillicons.dev/icons?i=js,python,java,cpp,html,css,go,ts)
+![Languages](https://skillicons.dev/icons?i=php,python,java,c,html,css)
 
 
 
@@ -43,4 +43,4 @@ Welcome to my GitHub profile! I'm a passionate Developer who loves to build, lea
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+⭐️ From [shashankshet](https://github.com/shashank-121A)
