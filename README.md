@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate Developer who loves to build, lea
 
 - 🌱 I’m currently learning **[GDScript,C#,React,C++]**
 - 💼 I’m working on **[my projects on College]**
-- 👯 I’m looking to collaborate on **[ Interesting Projects, something creative]**
-- 💬 Ask me about **[Game Development!!]**
-- 📫 How to reach me: **[shashankshet271@gmail.com]**
+- 👯 I’m looking to collaborate on **[ Interesting Projects and something creative]**
+- 💬 Ask me about **[🎮Game Development!!]**
+- 📫 How to reach me: **[📧shashankshet271@gmail.com]**
 - ⚡ Fun fact: **[defetaing a Boss in 30th try]**
 
 ---
@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a passionate Developer who loves to build, lea
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shashank-121A&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-121A&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashank-121A&theme=tokyonight)
 
 ---
 
